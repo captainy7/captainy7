@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=4000&pause=500&center=true&vCenter=true&random=false&width=500&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+satria;Full-stack+Developer;UI%2FUX+Enthusiast;Open+Source+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=4000&pause=500&center=true&vCenter=true&random=false&width=500&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+captainy7;Full-stack+Developer;UI%2FUX+Enthusiast;Open+Source+Lover" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/github/followers/captainy7?style=for-the-badge&logo=github&label=Followers&color=181717" alt="Followers" />
   </a>
   <a href="https://github.com/captainy7?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-5%20public-181717?style=for-the-badge&logo=github" alt="Repos" />
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fcaptainy7&query=%24.public_repos&label=Public%20Repos&color=181717&style=for-the-badge&logo=github" alt="Repos" />
   </a>
 </div>
 
