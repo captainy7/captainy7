@@ -32,13 +32,31 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=captainy7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=captainy7&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" alt="Top Languages" />
+  <a href="https://github.com/captainy7">
+    <img src="https://img.shields.io/github/stars/captainy7?style=for-the-badge&logo=github&label=Stars&color=181717" alt="Stars" />
+  </a>
+  <a href="https://github.com/captainy7?tab=followers">
+    <img src="https://img.shields.io/github/followers/captainy7?style=for-the-badge&logo=github&label=Followers&color=181717" alt="Followers" />
+  </a>
+  <a href="https://github.com/captainy7?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-5%20public-181717?style=for-the-badge&logo=github" alt="Repos" />
+  </a>
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=captainy7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
+
+#### 🏆 Top Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+</p>
 
 ---
 
